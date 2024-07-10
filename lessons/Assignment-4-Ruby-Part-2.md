@@ -37,7 +37,7 @@ start of a program, which you should call `sort_blocks.rb`.
       end
 
       def to_s
-        "author: #{author} title: #{title} count: #{count}"
+        "author: #{author} | title: #{title} | count: #{count}"
       end
     end
 
